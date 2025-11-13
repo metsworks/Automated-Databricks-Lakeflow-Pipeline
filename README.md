@@ -2,7 +2,7 @@
 
 ![Graph](docs/1.png)
 
-# Automated Databricks Lakeflow Pipeline - NYPD Arrests Analytics 🚨
+# Automated Databricks Lakeflow Pipeline - NYPD Arrests Analytics 
 
 ## Description
 
@@ -24,7 +24,7 @@ Les tables Gold sont exposées via un **Databricks Serverless SQL Warehouse**, p
 
 
 - **notebooks/** : tous les notebooks pour Bronze, Silver et Gold.  
-- **docs/** : captures d’écran et visuels du projet. Exemple : `![Pipeline Overview](docs/1.png)`  
+- **docs/** : captures d’écran et visuels du projet. Exemple : `![Pipeline Overview](docs/)`  
 
 ---
 
